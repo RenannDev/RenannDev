@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img src="https://www.svgrepo.com/show/376344/python.svg" height="50" alt="python logo" />
+  <img src="https://www.svgrepo.com/show/376344/python.svg" height="50" alt="python logo" padding="0" margin="0" />
 </div>
 
 ###
