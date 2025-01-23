@@ -1,7 +1,4 @@
 <h2 align="left">Hello World 👋!  Me chamo Vitor Renan e sou desenvolvedor Front-end . Jr</h2>
-# 💫 About Me:
-Olá 👋 🤓Sou Vítor Renan, desenvolvedor front-end Júnior e estudante de Análise e Desenvolvimento de Sistemas, da universidade Católica de Brasilia, UCB.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vitorrenan/) 
