@@ -1,4 +1,4 @@
-<h2 align="left">Hello World 👋!  Me chamo Vitor Renan e sou desenvolvedor Front-end . Jr</h2>
+<h2 align="left">Hello World 👋!  Me chamo Vitor Renan e sou desenvolvedor Web. Jr</h2>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vitorrenan/) 
